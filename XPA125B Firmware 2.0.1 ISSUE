@@ -1,0 +1,10 @@
+I tested the new firmware 2.0.1 for the XPA125B with this package.  I found the following issues:
+
+1 - When selecting the 15 meter band the relays in the XPA125B click rapidly forever
+2 - When selecting the 12 meter band, when I key the PTT the amplifier changes to 15 meters even though the radio is on 12 meters
+3 - When selecting 10 meters or 6 meters the band does not change to the correct one and stays on 12 meters or goes to 12 meters
+
+I verified that the voltages for band switching matched those in the user manual
+When I revered back to 2.0.0 Build 0.14 everything started working again
+
+I have left a message for Radioddity about this issue
