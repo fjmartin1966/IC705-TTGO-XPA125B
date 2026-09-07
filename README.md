@@ -7,3 +7,6 @@ Download the ZIP file that contains:
   Step by Step Instructions that includes complete tool requirements and parts list with links
 
 Video demonstration of the project: https://youtu.be/qrXOCUofJJs
+
+I want to also link you to Franz's repo where he took this project and modified it to work with the RS-928 Amp
+   https://github.com/DJ3GZ/Bluetooth-CAT-IC-705-RS-928
